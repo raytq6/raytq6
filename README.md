@@ -25,25 +25,37 @@ Currently, I’m strengthening my foundations in algorithms, statistics, and bac
 
 ---
 
+<div align="center" style="display: flex; justify-content: center; gap: 120px; flex-wrap: wrap; text-align: left;">
 
-## Tech Stack
+<div>
 
-**Languages**
-- Python
-- SQL
+### Languages
+- Python  
+- SQL  
 
-**Data & ML**
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook
+</div>
 
-**Systems & Tools**
-- Git & GitHub
-- MySQL
-- VS Code
-- CI/CD
+<div>
 
+### Data & ML
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Scikit-learn  
+- Jupyter Notebook  
+
+</div>
+
+<div>
+
+### Systems & Tools
+- Git & GitHub  
+- MySQL  
+- VS Code  
+- CI/CD  
+
+</div>
+
+</div>
 ---
 
