@@ -19,32 +19,12 @@
 
 I’m a Computer Science student in the UK focused on applied machine learning and data systems.
 
-My interest lies in understanding how data moves through a system — from collection and cleaning, to modelling, evaluation, and deployment. I aim to build solutions that are not only technically sound, but practical and reproducible.
+My interest lies in understanding how data moves through a system from collection and cleaning, to modelling, evaluation, and deployment. I aim to build solutions that are not only technically sound, but practical and reproducible.
 
 Currently, I’m strengthening my foundations in algorithms, statistics, and backend development while building projects that simulate real-world data workflows.
 
 ---
 
-## Technical Focus
-
-**Data Analysis & Exploration**
-- Structured data cleaning and transformation
-- Feature engineering
-- Clear statistical reasoning and visualisation
-- Communicating insights in a decision-oriented way
-
-**Machine Learning**
-- Supervised learning fundamentals
-- Model evaluation & validation techniques
-- Bias-variance tradeoff understanding
-
-**Systems & Pipeline Thinking**
-- Writing modular, maintainable Python code
-- Version control with Git
-- Understanding how models transition from notebook experimentation to structured systems
-- Exploring MLOps principles and workflow automation
-
----
 
 ## Tech Stack
 
@@ -67,17 +47,3 @@ Currently, I’m strengthening my foundations in algorithms, statistics, and bac
 
 ---
 
-## Current Development Goals
-
-- Deepen DSA and algorithmic problem solving  
-- Build 2–3 strong end-to-end ML projects  
-- Improve understanding of model deployment workflows  
-- Develop stronger statistical intuition  
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-</p>
